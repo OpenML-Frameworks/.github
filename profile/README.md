@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to F.R.I.D.A.Y. project! 👋
 
 <!--
 
